@@ -1,7 +1,7 @@
 # Решенные кейсы
 
 ## Fullstack-приложение TensoSensor
-![alt text](/static/tensosensor.PNG)
+![](/static/tensosensor.PNG)
 <table>
   <tr>
     <td>Проблема</td>
