@@ -1,28 +1,28 @@
 # Об авторе
 Я занимаюсь разработкой программного обеспечения различного типа:
-* Разработка Backend, API
+* Разработка **Backend, API**
 * Разработка Fullstack-приложений
-* Разработка Telegram-ботов
+* Разработка **Telegram-ботов**
 * Разработка desktop приложний
 * Написание скриптов
 * Разработка ПО для ПЛК, Arduino, ESP32
-
+***
 # Используемые технологии
-- Языки программирования
+- **Языки программирования**
   - Python, Golang
-- Базы данных
+- **Базы данных**
   - Postgres, MySQL, sqlite, Redis
   - ORM: Django, SQLAlchemy, gorm
-- Backend
+- **Backend**
   - Django, FastAPI
   - Gin
-- Frontend
+- **Frontend**
   - HTML, CSS, JS
-- DevOps
+- **DevOps**
   - Nginx, Docker
-- Другое
+- **Другое**
   - Websocket, Ajax, PyQT и др.
-
+***
 # Решенные кейсы
 
 ## Fullstack-приложение TensoSensor
