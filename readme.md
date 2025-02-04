@@ -96,7 +96,7 @@
   </tr>
 </table>
 
-## Телеграм-бот "Валидация пользователя"
+## Телеграм-бот "Верификация пользователя"
 
 <table>
   <tr>
@@ -112,6 +112,8 @@
     <td>Python, Aiogram, SQLAlchemy</td>
   </tr>
 </table>
+
+[Ссылка на бота](https://t.me/snklaser_verify_bot)
 
 ## Информационный телеграм-бот компании
 
@@ -129,6 +131,8 @@
     <td>Python, Aiogram, SQLAlchemy, Airtable</td>
   </tr>
 </table>
+
+[Ссылка на бота](https://t.me/snklaser_verify_bot)
 
 <!--
 <table>
